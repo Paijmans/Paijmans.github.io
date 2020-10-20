@@ -1,2 +1,2 @@
-# paijmans.github.io
+# Paijmans.github.io
 my personal website
